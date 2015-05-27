@@ -7,7 +7,7 @@ permalink: /contact/
 You can now get in touch with me using a age social network of your choice
 
 
-[![github](/images/social/github.png)](https://github.com/tinygrasshopper)
+[![github](/images/social/Github.png)](https://github.com/tinygrasshopper)
 [![twitter](/images/social/twitter.png)](https://twitter.com/tinygrasshopper)
 [![facebook](/images/social/facebook.png)](https://www.facebook.com/jatin.naik.90)
 [![google+](/images/social/g+.png)](https://plus.google.com/106467104800181774376)
