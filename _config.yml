@@ -1,13 +1,13 @@
 # Site settings
-title:       Blog
+title:       Unneeded Complexity 
 email:       jsnaik@gmail.com
 author:      Jatin Naik
 description: ""
 baseurl:     ""
-url:         "http://blog.jatinnaik.me"
+url:         "http://jatinnaik.me"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-46812124-1
 
 # Optional features
 animated:           false
